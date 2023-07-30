@@ -1,7 +1,7 @@
 Hi 👋 My name is Sawsan Daban
 =============================
 
-Web Developer, Android Developer and Data Scientist
+Game Developer, Web Developer, Android Developer and Data Scientist
 ---------------------------------------------------
 
 * 🌍  I'm based in Saudi Arabia
