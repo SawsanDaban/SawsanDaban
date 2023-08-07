@@ -10,7 +10,7 @@ Game Developer, Web Developer, Android Developer and Data Scientist
 * 🧠  I'm learning AWS Machine Learning
 
 <a href="https://www.twitter.com/IrisSmileDev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Prog_SD?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/IrisSmileDev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
