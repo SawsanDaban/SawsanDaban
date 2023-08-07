@@ -9,7 +9,7 @@ Game Developer, Web Developer, Android Developer and Data Scientist
 * ✉️  You can contact me at [sdaban98@gmail.com](mailto:sdaban98@gmail.com)
 * 🧠  I'm learning AWS Machine Learning
 
-<a href="https://www.twitter.com/Prog_SD" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/IrisSmileDev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Prog_SD?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
