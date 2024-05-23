@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Arabic Mama Game](https://www.linkedin.com/feed/update/urn:li:activity:7130330448647311360)
 
-- 👨‍💻 All of my projects are available at [sawsandaban.github.io](sawsandaban.github.io)
+- 👨‍💻 All of my projects are available at [sawsandaban.github.io](https://sawsandaban.github.io)
 
 - 📝 I regularly write articles on [https://twitter.com/IrisSmileDev](https://twitter.com/IrisSmileDev)
 
