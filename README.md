@@ -1,33 +1,28 @@
 <h1 align="center">Hi 👋, I'm Sawsan Daban</h1>
-<h3 align="center">Game Developer, Web Developer, Android Developer and Data Scientist</h3>
+<h3 align="center">Creative Technologist | Data Scientist | Game Developer</h3>
 
 <p align="center"> <a href="https://sawsandaban.github.io/"><img src="https://github-profile-trophy.vercel.app/?username=sawsandaban&theme=onedark" alt="sawsandaban" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/irissmiledev" target="blank"><img src="https://img.shields.io/twitter/follow/irissmiledev?logo=twitter&style=for-the-badge" alt="irissmiledev" /></a> </p>
+<p align="left">
+  <a href="https://x.com/irissmiledev" target="blank">
+    <img src="https://img.shields.io/twitter/follow/irissmiledev?logo=x&style=for-the-badge" alt="irissmiledev" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on [Arabic Mama Game](https://www.linkedin.com/feed/update/urn:li:activity:7130330448647311360)
-
-- 🌱 I’m currently learning **Data Science**
-
-- 👯 I’m looking to collaborate on **2D Unity games**
-
-- 🤝 I’m looking for help with [Arabic Mama Game](https://www.linkedin.com/feed/update/urn:li:activity:7130330448647311360)
-
-- 👨‍💻 All of my projects are available at [sawsandaban.github.io](https://sawsandaban.github.io)
-
-- 📝 I regularly write articles on [https://twitter.com/IrisSmileDev](https://twitter.com/IrisSmileDev)
-
-- 💬 Ask me about **Unity Engine - C# - JSP - Servlets**
-
-- 📫 How to reach me **sdaban98@gmail.com**
-
-- 📄 Know about my experiences [https://sawsandaban.github.io/cv.html](https://sawsandaban.github.io/cv.html)
-
-- ⚡ Fun fact **I think I can rule the world!**
+- 🔍 Currently analyzing **PUBG gameplay data** using Python, pandas, and Deepnote notebooks  
+- 🎮 Exploring player behavior, match dynamics, and win prediction models  
+- 🧠 Skilled in **data storytelling**, reproducible analysis, and modular quiz creation  
+- 💡 Passionate about blending **game development** with **data-driven design**  
+- 👩‍💻 Projects and walkthroughs available at [sawsandaban.github.io](https://sawsandaban.github.io)  
+- 📝 I share updates and insights on [X @IrisSmileDev](https://twitter.com/IrisSmileDev)  
+- 💬 Ask me about **Unity Engine, C#, Python, Deepnote, and LaTeX for documentation**  
+- 📫 Reach me at **sdaban.dev@gmail.com**  
+- 📄 Learn more about my experience: [CV](https://sawsandaban.github.io/cv.html)  
+- ⚡ Fun fact: I believe quiet consistency beats loud perfectionism.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/irissmiledev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irissmiledev" height="30" width="40" /></a>
+<a href="https://x.com/irissmiledev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irissmiledev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sawsan-daban" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sawsan-daban" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9770844" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9770844" height="30" width="40" /></a>
 <a href="https://kaggle.com/galaheart" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="galaheart" height="30" width="40" /></a>
